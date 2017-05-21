@@ -8,4 +8,4 @@ Just a project more for myself to refer back to when working on future PHP proje
   cd php-data2table
   php data2table.php
   ```
-*Data will instantly output formatted to Terminal* 
+*Data will instantly output formatted to Terminal/Console.* 
